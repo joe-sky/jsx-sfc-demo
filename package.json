@@ -119,7 +119,7 @@
       "<rootDir>/src/**/*.{spec,test}.{js,jsx,ts,tsx}"
     ],
     "testEnvironment": "jsdom",
-    "testRunner": "D:\\joe_sky\\flareJ\\flareJ\\JsLibrary\\jsx-sfc-demo\\node_modules\\jest-circus\\runner.js",
+    "testRunner": "D:\\joe_sky\flareJ\flareJ\\JsLibrary\\jsx-sfc-demo\node_modules\\jest-circus\runner.js",
     "transform": {
       "^.+\\.(js|jsx|mjs|cjs|ts|tsx)$": "<rootDir>/config/jest/babelTransform.js",
       "^.+\\.css$": "<rootDir>/config/jest/cssTransform.js",
@@ -156,5 +156,7 @@
     "presets": [
       "react-app"
     ]
-  }
+  },
+  "keywords": [],
+  "description": ""
 }
